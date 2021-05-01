@@ -3,4 +3,4 @@
 
 from bbquote.app import get_quote
 
-get_quote()
+print(get_quote())
